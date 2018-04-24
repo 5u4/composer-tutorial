@@ -1,7 +1,12 @@
 {
-  "name": "senhung/compsoser-testing",
+  "name": "senhung/composer-testing",
+  "authors": [
+    {
+      "name": "Senhung Wong",
+      "email": "alexwongsenhung@gmail.com"
+    }
+  ],
   "description": "Test how to publish and use composer packages",
   "require": {
-    "php": "^5.3.3 || ^7.0"
   }
 }
