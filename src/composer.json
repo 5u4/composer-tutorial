@@ -1,0 +1,11 @@
+{
+    "name": "senhung/src",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Senhung Wong",
+            "email": "alexwongsenhung@gmail.com"
+        }
+    ],
+    "require": {}
+}
