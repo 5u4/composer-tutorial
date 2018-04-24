@@ -1,0 +1,7 @@
+{
+  "name": "senhung/compsoser-testing",
+  "description": "Test how to publish and use composer packages",
+  "require": {
+    "php": "^5.3.3 || ^7.0"
+  }
+}
