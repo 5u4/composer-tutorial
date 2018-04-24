@@ -9,7 +9,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Senhung\\App\\": "Senhung"
+            "Senhung\\": "src/Senhung/"
         }
     },
     "require": {}
