@@ -1,5 +1,7 @@
 <?php
 
+namespace Senhung\App;
+
 class Greet
 {
     /**
