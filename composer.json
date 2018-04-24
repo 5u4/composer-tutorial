@@ -10,7 +10,8 @@
     "autoload": {
         "psr-4": {
             "Senhung\\": "src/Senhung/"
-        }
+        },
+        "files": ["src/Senhung/Greet.php"]
     },
     "require": {}
 }
