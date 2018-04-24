@@ -7,5 +7,10 @@
             "email": "alexwongsenhung@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Senhung\\App\\": "Senhung"
+        }
+    },
     "require": {}
 }
