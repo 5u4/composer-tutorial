@@ -1,17 +1,19 @@
 {
-    "name": "senhung/src",
+    "name": "senhung/greet",
     "license": "MIT",
     "authors": [
         {
             "name": "Senhung Wong",
-            "email": "alexwongsenhung@gmail.com"
+            "email": "0x53656e@gmail.com"
         }
     ],
     "autoload": {
         "psr-4": {
-            "Senhung\\": "src/Senhung/"
+            "Senhung\\ComposerTutorial\\Greet\\": "src/"
         },
-        "files": ["src/Senhung/Greet.php"]
+        "files": [
+            "src/Greet.php"
+        ]
     },
     "require": {}
 }

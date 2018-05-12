@@ -1,6 +1,6 @@
 <?php
 
-namespace Senhung\App;
+namespace Senhung\ComposerTutorial;
 
 class Greet
 {
